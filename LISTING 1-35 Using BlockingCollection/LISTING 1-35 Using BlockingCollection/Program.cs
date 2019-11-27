@@ -8,9 +8,10 @@ namespace LISTING_1_35_Using_BlockingCollection
     {
         static void Main(string[] args)
         {
+            //CTO: Blocking collection é usada quando você necessita que uma task retorne um valor e outra task consuma o mesmo
+            //se chama blocking pois o mesmo bloqueia a ação do Take quando não há datos para serem recuperados
             // Blocking collection that can hold 5 items
             BlockingCollection<int> data = new BlockingCollection<int>(5);
-
             Task.Run(() =>
             {
                 // attempt to add 10 items to the collection - blocks after 5th
@@ -30,6 +31,11 @@ namespace LISTING_1_35_Using_BlockingCollection
             {
                 while (!data.IsCompleted)
                 {
+                    //CTO: o try catch serve para tratar um possivel erro: Quando IsCompleted for false e 
+                    //por um acaso a outra thread de add chamar o completeAdding o objeto data tentarar chamar o take
+                    //com isso ira dar throw
+
+                    //CTO: O BlockingCollection possui os metodos TryAdd e TryTake que pode ser substituidos pelos exemplos que foram escritos
                     try
                     {
                         int v = data.Take();

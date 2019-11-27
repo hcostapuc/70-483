@@ -1,0 +1,9 @@
+Thread safe significa elementos que funcionam corretamente quando usados em uma task
+As colecoes do .NET incluindo a lista a pilha e o dicionario não sao thread safe.
+O .NET fornece libraires que provem essas coleções thread safe que são:
+
+BlockingCollection<T>
+ConcurrentQueue<T>
+ConcurrentStack<T>
+ConcurrentBag<T>
+ConcurrentDictionary<T>

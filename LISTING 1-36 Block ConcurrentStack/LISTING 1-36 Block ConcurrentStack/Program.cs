@@ -8,6 +8,9 @@ namespace LISTING_1_36_Block_ConcurrentStack
     {
         static void Main(string[] args)
         {
+            //CTO: utilizando o ConcurrentStack o mesmo adicionara com a regra "last in first out" do contrario por default
+            //utiliza o blockingCollection utiliza o ConcurrentQueue que é o "First in first out". Ja o ConcurrentBag não possui ordenação alguma, é aleatório.
+            
             // Blocking collection that can hold 5 items
             BlockingCollection<int> data = new BlockingCollection<int>(new ConcurrentStack<int>(), 5);
 

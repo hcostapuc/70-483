@@ -1,0 +1,3 @@
+O sistema operacional é quem decide quando uma thread ira rodar, essa decição é feita baseada no Workload do computador
+ou seja, um processo assyncrono basico como o exemplo 1-2, ira executar cada vez em um tempo diferente, pois tudo
+dependera no workload, se o pc esta com processos ocupados ou não, etc...

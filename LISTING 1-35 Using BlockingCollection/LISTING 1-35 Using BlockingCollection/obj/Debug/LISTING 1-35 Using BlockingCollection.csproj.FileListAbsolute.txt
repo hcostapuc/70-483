@@ -5,3 +5,10 @@ c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-35 Using Blocking
 c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-35 Using BlockingCollection\LISTING 1-35 Using BlockingCollection\obj\Debug\LISTING 1-35 Using BlockingCollection.csproj.CoreCompileInputs.cache
 c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-35 Using BlockingCollection\LISTING 1-35 Using BlockingCollection\obj\Debug\LISTING 1-35 Using BlockingCollection.exe
 c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-35 Using BlockingCollection\LISTING 1-35 Using BlockingCollection\obj\Debug\LISTING 1-35 Using BlockingCollection.pdb
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-35 Using BlockingCollection\LISTING 1-35 Using BlockingCollection\bin\Debug\LISTING 1-35 Using BlockingCollection.exe.config
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-35 Using BlockingCollection\LISTING 1-35 Using BlockingCollection\bin\Debug\LISTING 1-35 Using BlockingCollection.exe
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-35 Using BlockingCollection\LISTING 1-35 Using BlockingCollection\bin\Debug\LISTING 1-35 Using BlockingCollection.pdb
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-35 Using BlockingCollection\LISTING 1-35 Using BlockingCollection\obj\Debug\LISTING 1-35 Using BlockingCollection.csprojAssemblyReference.cache
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-35 Using BlockingCollection\LISTING 1-35 Using BlockingCollection\obj\Debug\LISTING 1-35 Using BlockingCollection.csproj.CoreCompileInputs.cache
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-35 Using BlockingCollection\LISTING 1-35 Using BlockingCollection\obj\Debug\LISTING 1-35 Using BlockingCollection.exe
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-35 Using BlockingCollection\LISTING 1-35 Using BlockingCollection\obj\Debug\LISTING 1-35 Using BlockingCollection.pdb
