@@ -29,8 +29,13 @@ namespace Webpage_Viewer
             {
                 tasks.Add(FetchWebPage(url));
             }
-
+            //CTO: o metodo WhenAll cria uma task que termina quando as tasks passadas no parametro terminar, esse cenário é bom
+            //quando você precisaria inserir varios awaits em tasks internas do metodo async.
+            //Esse caso nao é uma boa pratica pois nao teremos um retorno ordenado dos nomes dos sites, nao possue exeptions throws
             return await Task.WhenAll(tasks);
+
+            //CTO: O waitany diferente do whenAll termina a task criada quando qualquer uma das task completar.
+            return await Task.WaitAny(tasks);
         }
 
         private async void Button_Click(object sender, RoutedEventArgs e)
