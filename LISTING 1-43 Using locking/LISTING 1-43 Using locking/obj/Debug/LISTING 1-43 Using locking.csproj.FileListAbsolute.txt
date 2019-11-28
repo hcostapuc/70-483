@@ -4,3 +4,10 @@ c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-43 Using locking\
 c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-43 Using locking\LISTING 1-43 Using locking\obj\Debug\LISTING 1-43 Using locking.csproj.CoreCompileInputs.cache
 c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-43 Using locking\LISTING 1-43 Using locking\obj\Debug\LISTING 1-43 Using locking.exe
 c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-43 Using locking\LISTING 1-43 Using locking\obj\Debug\LISTING 1-43 Using locking.pdb
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-43 Using locking\LISTING 1-43 Using locking\bin\Debug\LISTING 1-43 Using locking.exe.config
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-43 Using locking\LISTING 1-43 Using locking\bin\Debug\LISTING 1-43 Using locking.exe
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-43 Using locking\LISTING 1-43 Using locking\bin\Debug\LISTING 1-43 Using locking.pdb
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-43 Using locking\LISTING 1-43 Using locking\obj\Debug\LISTING 1-43 Using locking.csprojAssemblyReference.cache
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-43 Using locking\LISTING 1-43 Using locking\obj\Debug\LISTING 1-43 Using locking.csproj.CoreCompileInputs.cache
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-43 Using locking\LISTING 1-43 Using locking\obj\Debug\LISTING 1-43 Using locking.exe
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-43 Using locking\LISTING 1-43 Using locking\obj\Debug\LISTING 1-43 Using locking.pdb

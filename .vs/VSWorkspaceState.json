@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\LISTING 1-33 Exceptions and async\\Webpage Viewer",
+    "\\LISTING 1-33 Exceptions and async\\Webpage Viewer\\Webpage Viewer",
+    "\\LISTING 1-35 Using BlockingCollection\\LISTING 1-35 Using BlockingCollection",
+    "\\LISTING 1-36 Block ConcurrentStack\\LISTING 1-36 Block ConcurrentStack",
+    "\\LISTING 1-37 Concurrent queue\\LISTING 1-37 Concurrent queue",
+    "\\LISTING 1-39 Concurrent bag\\LISTING 1-39 Concurrent bag",
+    "\\LISTING 1-40 Concurrent dictionary\\LISTING 1-40 Concurrent dictionary",
+    "\\LISTING 1-41 Single task summing",
+    "\\LISTING 1-41 Single task summing\\LISTING 1-41 Single task summing"
   ],
+  "SelectedNode": "\\LISTING 1-41 Single task summing\\Intro Manage multithreading.txt",
   "PreviewInSolutionExplorer": false
 }

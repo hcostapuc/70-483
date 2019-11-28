@@ -7,3 +7,8 @@ ConcurrentQueue<T>
 ConcurrentStack<T>
 ConcurrentBag<T>
 ConcurrentDictionary<T>
+
+PS.: parametros passados em uma thread são por valor, caso necessite passar um objeto, não tem como garantir que
+outra task manipule o dado desse objeto mesmo sendo executado na task que foi passado como parametro, assim nao podendo
+garantir o thread safe, existe 2 metodos para resolver esse problema, um é criando um scruct type para o tipo do objeto e o outro
+é criar uma alçao atomic que copia o objeto para uma variavel local

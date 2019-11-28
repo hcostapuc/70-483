@@ -8,6 +8,8 @@ namespace LISTING_1_48_interlock_total
 {
     class Program
     {
+        //CTO: uma variavel com o keyword volatile significa que a mesma nao sera feito cach da variavel no processador
+        //assim sempre recuperando da copia em memoria
         static long sharedTotal;
 
         // make an array that holds the values 0 to 5000000
@@ -22,7 +24,8 @@ namespace LISTING_1_48_interlock_total
                 subTotal = subTotal + items[start];
                 start++;
             }
-
+            //CTO: a classe interlocked é como se fosse uma abstração do lock, a mesma com uma unica linha permite acessar a variavel de modo atomic.
+            //nela podemos adicionar decrementar exchange (troca uma variavel por outra)
             Interlocked.Add(ref sharedTotal, subTotal);
         }
 

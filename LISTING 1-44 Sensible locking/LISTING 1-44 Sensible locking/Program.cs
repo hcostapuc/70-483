@@ -18,7 +18,9 @@ namespace LISTING_1_44_Sensible_locking
         static void addRangeOfValues(int start, int end)
         {
             long subTotal = 0;
-
+            //CTO: nesse exemplo daremos lock somente quando cada range de valor estiver preenchido seu subtotal, no exemplo anterior
+            //estavamos dando lock para cada adição de valor, nesse implementamos o subtotal, o mesmo agi como um buffer, quando soma todos os valores do range
+            //ele adiciona no total e encerra a task, assim dando muito menos locking do que o exemplo anterior 1-43
             while (start < end)
             {
                 subTotal = subTotal + items[start];

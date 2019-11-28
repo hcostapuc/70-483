@@ -10,7 +10,9 @@ namespace LISTING_1_47_Deadlocked_tasks
     {
         static object lock1 = new object();
         static object lock2 = new object();
-
+        //CTO: Esse exemplo mostra um  deadlock entre duas tasks no qual cada uma espera o objeto locado da outra
+        //para evitar basta nao usar lock dentro de lock, uma ma utilização de lock na aplicação podera ocasionar deadlocks.
+        //CTO: É sempre recomendado utilizar o tipo da variavel a ser locada como object
         static void Method1()
         {
             lock (lock1)

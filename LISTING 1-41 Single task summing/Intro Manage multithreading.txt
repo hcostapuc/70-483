@@ -1,3 +1,12 @@
 O sistema operacional é quem decide quando uma thread ira rodar, essa decição é feita baseada no Workload do computador
 ou seja, um processo assyncrono basico como o exemplo 1-2, ira executar cada vez em um tempo diferente, pois tudo
 dependera no workload, se o pc esta com processos ocupados ou não, etc...
+
+O termo atomic se refere a operações no qual conseguem concorrer um objeto em duas ou mais threads, alterando seu valor
+de forma organizada, sem sobreescrever o objeto em comum das duas. um exemplo de operação atomica sao os "concurrent collections" ou a implementação de locking e uma nao anatomic seria
+uma implementacao de codigo :"variavel++" nas duas tasks.
+
+Resumindo: Sempre que necessitar de um cenario multithread que compartilha uma variavel/objeto, utilizar operação atomic.
+
+O problema da 1-42 é que a adição do valor a uma variavel não é uma ação atomic as tasks brigam para poder inserir seu valor
+um exemplo de uma ação atomic sao os concurrent collections, que manipulam seus dados de forma em que as tasks não briguem umas com as outras
