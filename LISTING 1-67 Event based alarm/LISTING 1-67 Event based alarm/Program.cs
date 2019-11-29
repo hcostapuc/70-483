@@ -4,6 +4,9 @@ namespace LISTING_1_67_Event_based_alarm
 {
     class Alarm
     {
+        //CTO: A solução para o problema 1-66 é simples basta utilizarmos o keyword event, que nao deixa codigos externos setar ou dar get na propriedade.
+        //Outra dica é ja isntanciar o delegate, pois assim nao necessitamos verificar se o mesmo é nulo toda vez que formos invoca-lo
+
         // Delegate for the alarm event
         public event Action OnAlarmRaised = delegate { };
 

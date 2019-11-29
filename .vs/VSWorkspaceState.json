@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\LISTING 1-33 Exceptions and async\\Webpage Viewer",
-    "\\LISTING 1-33 Exceptions and async\\Webpage Viewer\\Webpage Viewer",
     "\\LISTING 1-35 Using BlockingCollection\\LISTING 1-35 Using BlockingCollection",
     "\\LISTING 1-36 Block ConcurrentStack\\LISTING 1-36 Block ConcurrentStack",
     "\\LISTING 1-37 Concurrent queue\\LISTING 1-37 Concurrent queue",
-    "\\LISTING 1-39 Concurrent bag\\LISTING 1-39 Concurrent bag",
-    "\\LISTING 1-40 Concurrent dictionary\\LISTING 1-40 Concurrent dictionary",
-    "\\LISTING 1-41 Single task summing",
-    "\\LISTING 1-41 Single task summing\\LISTING 1-41 Single task summing"
+    "\\LISTING 1-38 Concurrent stack\\LISTING 1-38 Concurrent stack",
+    "\\LISTING 1-48 interlock total\\LISTING 1-48 interlock total",
+    "\\LISTING 1-49 cancel a task\\LISTING 1-49 cancel a task",
+    "\\LISTING 1-50 cancel with exception\\LISTING 1-50 cancel with exception",
+    "\\LISTING 1-51 unsafe thread method",
+    "\\LISTING 1-51 unsafe thread method\\LISTING 1-51 unsafe thread method"
   ],
-  "SelectedNode": "\\LISTING 1-41 Single task summing\\Intro Manage multithreading.txt",
+  "SelectedNode": "\\LISTING 1-51 unsafe thread method",
   "PreviewInSolutionExplorer": false
 }

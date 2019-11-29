@@ -31,8 +31,8 @@ namespace LISTING_1_60_if_construction
                     Console.WriteLine("This statement is never performed");
                 }
             }
-
-            if (true)
+            //CTO: a operação ^ retorna true quando a operacao da esquerda for difirente da direita, como no exemplo abaixo:
+            if (true ^ false)
             {
                 Console.WriteLine("This statement is always performed");
                 if (true)

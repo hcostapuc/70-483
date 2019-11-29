@@ -5,3 +5,10 @@ C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-65 Publish and subscribe\L
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-65 Publish and subscribe\LISTING 1-65 Publish and subscribe\obj\Debug\LISTING 1-65 Publish and subscribe.csproj.CoreCompileInputs.cache
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-65 Publish and subscribe\LISTING 1-65 Publish and subscribe\obj\Debug\LISTING 1-65 Publish and subscribe.exe
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-65 Publish and subscribe\LISTING 1-65 Publish and subscribe\obj\Debug\LISTING 1-65 Publish and subscribe.pdb
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-65 Publish and subscribe\LISTING 1-65 Publish and subscribe\bin\Debug\LISTING 1-65 Publish and subscribe.exe.config
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-65 Publish and subscribe\LISTING 1-65 Publish and subscribe\bin\Debug\LISTING 1-65 Publish and subscribe.exe
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-65 Publish and subscribe\LISTING 1-65 Publish and subscribe\bin\Debug\LISTING 1-65 Publish and subscribe.pdb
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-65 Publish and subscribe\LISTING 1-65 Publish and subscribe\obj\Debug\LISTING 1-65 Publish and subscribe.csprojAssemblyReference.cache
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-65 Publish and subscribe\LISTING 1-65 Publish and subscribe\obj\Debug\LISTING 1-65 Publish and subscribe.csproj.CoreCompileInputs.cache
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-65 Publish and subscribe\LISTING 1-65 Publish and subscribe\obj\Debug\LISTING 1-65 Publish and subscribe.exe
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-65 Publish and subscribe\LISTING 1-65 Publish and subscribe\obj\Debug\LISTING 1-65 Publish and subscribe.pdb

@@ -46,6 +46,10 @@ namespace LISTING_1_66_Unsubscribing
             alarm.RaiseAlarm();
             Console.WriteLine("Alarm raised");
 
+            //CTO: aqui retiramos a publicação do metodo AlarmListener1, quando o delegate for invocado, o mesmo nao chamara mais o metodo AlarmListener1.
+            //Se publicarmos o mesmo evento a um delegate mais de uma vez, ele executara a quantiadde de vezes que foi publicado.
+            //Esse exemplo nao é um exemplo seguro de publicação de delegate, pois o OnAlarmRaised esta publico, ou seja, qualquer um que for usar a classe podera alterar o delegate
+            //a boa pratica esta no exemplo 1-67
             alarm.OnAlarmRaised -= AlarmListener1;
 
             alarm.RaiseAlarm();

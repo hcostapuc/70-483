@@ -25,6 +25,7 @@ namespace LISTING_1_57_uppercase_Person
                 new Person("David"), new Person("Jenny"),
                 new Person("Chris"), new Person("Imogen") };
 
+            //CTO: o Foreach funciona para coleções que implemente o IEnumerable
             foreach (Person person in people)
                 person.Name = person.Name.ToUpper();
 

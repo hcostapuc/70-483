@@ -1,0 +1,7 @@
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-60 if construction\LISTING 1-60 if construction\bin\Debug\LISTING 1-60 if construction.exe.config
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-60 if construction\LISTING 1-60 if construction\bin\Debug\LISTING 1-60 if construction.exe
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-60 if construction\LISTING 1-60 if construction\bin\Debug\LISTING 1-60 if construction.pdb
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-60 if construction\LISTING 1-60 if construction\obj\Debug\LISTING 1-60 if construction.csprojAssemblyReference.cache
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-60 if construction\LISTING 1-60 if construction\obj\Debug\LISTING 1-60 if construction.csproj.CoreCompileInputs.cache
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-60 if construction\LISTING 1-60 if construction\obj\Debug\LISTING 1-60 if construction.exe
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-60 if construction\LISTING 1-60 if construction\obj\Debug\LISTING 1-60 if construction.pdb

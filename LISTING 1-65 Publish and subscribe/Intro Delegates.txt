@@ -1,0 +1,8 @@
+Delegate contem a referencia particular de um metodo de uma classe. são usados normalmente para criar eventos publicos
+o exemplo 1-65 mostra isso com um delegate do tipo Action.
+
+Delegates possuem varios tipos. como exemplos defaults existem:
+
+Action : um tipo de delegate void
+EventHandler: que é mais comumente utilizado nos eventos de componente do windows (button click, textbox changed).
+			  Esse tipo conta com 2 parametros, o primeiro é o objeto que deu rising no evento, e o segundo prove argumento (data) do evento, o exemplo 1-69 descreve melhor esses parametros
