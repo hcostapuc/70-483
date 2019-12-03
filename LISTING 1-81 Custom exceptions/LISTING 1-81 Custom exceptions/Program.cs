@@ -29,6 +29,8 @@ namespace LISTING_1_81_Custom_exceptions
             }
             catch (CalcException ce) 
             {
+                //CTO: re-throw dentro de catch é uma má pratica, pois você perde todas as informações do stacktrace substituindo pelo local do throw
+                //e nao pelo local do erro exato, para solucionar basta inserir em um inner exception o original exception
                 Console.WriteLine("Error: {0}", ce.Error);
             }
             Console.ReadKey();

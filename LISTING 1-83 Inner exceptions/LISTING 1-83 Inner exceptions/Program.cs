@@ -14,7 +14,7 @@ namespace LISTING_1_83_Inner_exceptions
                     string numberText = Console.ReadLine();
                     int result;
                     result = int.Parse(numberText);
-                }
+                }//CTO: usando re-throw com inner exception
                 catch (Exception ex)
                 {
                     throw new Exception("Calculator failure", ex);

@@ -4,3 +4,9 @@ C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-77 Exception object\LISTIN
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-77 Exception object\LISTING 1-77 Exception object\obj\Debug\LISTING 1-77 Exception object.csproj.CoreCompileInputs.cache
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-77 Exception object\LISTING 1-77 Exception object\obj\Debug\LISTING 1-77 Exception object.exe
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-77 Exception object\LISTING 1-77 Exception object\obj\Debug\LISTING 1-77 Exception object.pdb
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-77 Exception object\LISTING 1-77 Exception object\bin\Debug\LISTING 1-77 Exception object.exe.config
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-77 Exception object\LISTING 1-77 Exception object\bin\Debug\LISTING 1-77 Exception object.exe
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-77 Exception object\LISTING 1-77 Exception object\bin\Debug\LISTING 1-77 Exception object.pdb
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-77 Exception object\LISTING 1-77 Exception object\obj\Debug\LISTING 1-77 Exception object.csproj.CoreCompileInputs.cache
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-77 Exception object\LISTING 1-77 Exception object\obj\Debug\LISTING 1-77 Exception object.exe
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-77 Exception object\LISTING 1-77 Exception object\obj\Debug\LISTING 1-77 Exception object.pdb

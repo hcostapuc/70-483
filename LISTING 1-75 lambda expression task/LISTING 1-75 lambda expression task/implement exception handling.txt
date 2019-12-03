@@ -1,0 +1,8 @@
+exceções não devem ser usadas para quando um usuario nao insere sua senha correta, a mesma deve ser usada
+em casos onde o programa nao pode dar continuidade ao seu fluxo normal a partir do ponto onde ocorreu o erro, exemplo:
+network connection fails, storage device full.
+
+Se uma exeção nao for chamada por uma exception handler, ela ira ser chamada pelo .NET enviroment e isso causara a abortagem
+da thread/task.
+
+A classe pai das exeções é a "Exeption" que possui varios tipos de exeções para erros específicos

@@ -21,6 +21,10 @@ namespace LISTING_1_73_Closures
         static void Main(string[] args)
         {
             SetLocalInt();
+            GC.Collect();
+            //CTO: na teoria o valor do localInt nesse ponto ja teria sido limpo. Lambda expressions can access variables in
+            //the code around it, the compiler extend the lifetime of variables used in labda expressions, this extension of variables life
+            //is called a "clousures"
             Console.WriteLine("Value of localInt {0}", getLocalInt());
             Console.ReadKey();
         }

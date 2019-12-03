@@ -27,7 +27,9 @@ namespace LISTING_1_79_The_finally_block
             catch (Exception ex)
             {
                 Console.WriteLine("Unexpected exception");
-            }
+            }//CTO: duas unicas possibilidades do programa nao passar no finally:
+            //1 - um precedente loopinfinito
+            //2 - um precedente uso do Eviroment.FailFast method do construtor do try indicando que nao executará nenhum finally
             finally
             {
                 Console.WriteLine("Thanks for using my program.");

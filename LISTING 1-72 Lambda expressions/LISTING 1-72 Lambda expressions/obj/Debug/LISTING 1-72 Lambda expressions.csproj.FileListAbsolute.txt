@@ -5,3 +5,10 @@ C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-72 Lambda expressions\LIST
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-72 Lambda expressions\LISTING 1-72 Lambda expressions\obj\Debug\LISTING 1-72 Lambda expressions.csproj.CoreCompileInputs.cache
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-72 Lambda expressions\LISTING 1-72 Lambda expressions\obj\Debug\LISTING 1-72 Lambda expressions.exe
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-72 Lambda expressions\LISTING 1-72 Lambda expressions\obj\Debug\LISTING 1-72 Lambda expressions.pdb
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-72 Lambda expressions\LISTING 1-72 Lambda expressions\bin\Debug\LISTING 1-72 Lambda expressions.exe.config
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-72 Lambda expressions\LISTING 1-72 Lambda expressions\bin\Debug\LISTING 1-72 Lambda expressions.exe
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-72 Lambda expressions\LISTING 1-72 Lambda expressions\bin\Debug\LISTING 1-72 Lambda expressions.pdb
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-72 Lambda expressions\LISTING 1-72 Lambda expressions\obj\Debug\LISTING 1-72 Lambda expressions.csprojAssemblyReference.cache
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-72 Lambda expressions\LISTING 1-72 Lambda expressions\obj\Debug\LISTING 1-72 Lambda expressions.csproj.CoreCompileInputs.cache
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-72 Lambda expressions\LISTING 1-72 Lambda expressions\obj\Debug\LISTING 1-72 Lambda expressions.exe
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-72 Lambda expressions\LISTING 1-72 Lambda expressions\obj\Debug\LISTING 1-72 Lambda expressions.pdb

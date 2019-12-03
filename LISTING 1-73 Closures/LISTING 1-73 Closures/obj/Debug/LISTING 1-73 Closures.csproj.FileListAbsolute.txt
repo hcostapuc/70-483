@@ -5,3 +5,10 @@ C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-73 Closures\LISTING 1-73�
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-73 Closures\LISTING 1-73 Closures\obj\Debug\LISTING 1-73 Closures.csproj.CoreCompileInputs.cache
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-73 Closures\LISTING 1-73 Closures\obj\Debug\LISTING 1-73 Closures.exe
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-73 Closures\LISTING 1-73 Closures\obj\Debug\LISTING 1-73 Closures.pdb
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-73 Closures\LISTING 1-73 Closures\bin\Debug\LISTING 1-73 Closures.exe.config
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-73 Closures\LISTING 1-73 Closures\bin\Debug\LISTING 1-73 Closures.exe
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-73 Closures\LISTING 1-73 Closures\bin\Debug\LISTING 1-73 Closures.pdb
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-73 Closures\LISTING 1-73 Closures\obj\Debug\LISTING 1-73 Closures.csproj.CoreCompileInputs.cache
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-73 Closures\LISTING 1-73 Closures\obj\Debug\LISTING 1-73 Closures.exe
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-73 Closures\LISTING 1-73 Closures\obj\Debug\LISTING 1-73 Closures.pdb
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 1-73 Closures\LISTING 1-73 Closures\obj\Debug\LISTING 1-73 Closures.csprojAssemblyReference.cache

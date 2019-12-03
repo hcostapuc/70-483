@@ -26,11 +26,12 @@ namespace LISTING_1_70_Aggregating_exceptions
         public void RaiseAlarm(string location)
         {
             List<Exception> exceptionList = new List<Exception>();
-
+            //CTO: o metodo GetInvocationList obtem todos os subscribers do delegate no cenario foram 2
             foreach (Delegate handler in OnAlarmRaised.GetInvocationList())
             {
                 try
                 {
+                    //CTO: aqui é chamado um subscribe de cada vez
                     handler.DynamicInvoke(this, new AlarmEventArgs(location));
                 }
                 catch (TargetInvocationException e)

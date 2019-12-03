@@ -8,6 +8,7 @@ namespace LISTING_1_75_lambda_expression_task
     {
         static void Main(string[] args)
         {
+            //CTO: essa representacao de expressao lambda se chama "anonymous method" pois a mesma nao possue nome
             Task.Run( () =>
            {
                for (int i = 0; i < 5 ; i++)

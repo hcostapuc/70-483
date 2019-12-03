@@ -22,7 +22,7 @@ namespace LISTING_1_84_Aggregate_exceptions
                 getpage.Wait();
 
                 Console.WriteLine(getpage.Result);
-            }
+            }//CTO: aggregateException seria uma collection de exceptions
             catch ( AggregateException ag)
             {
                 foreach(Exception e in ag.InnerExceptions)
