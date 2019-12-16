@@ -14,6 +14,8 @@ namespace LISTING_2_46_The_serializable_attribute
 
         public int Age;
 
+        //CTO: Metadata is “data about data.” como Age da classe Person é um metadata
+        //CTO: A serializer takes the entire contents of a class and sends it into a stream
         [NonSerialized]
         // No need to save this
         private int screenPosition;

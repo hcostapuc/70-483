@@ -9,6 +9,9 @@ namespace LISTING_2_57_CodeDOM_object
     {
         static void Main(string[] args)
         {
+            //CTO: A CodeDOM object can be parsed to create a source file or an executable assembly
+            //nesse exemplo criou um source
+
             CodeCompileUnit compileUnit = new CodeCompileUnit();
 
             // Create a namespace to hold the types we are going to create

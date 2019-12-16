@@ -63,6 +63,8 @@ namespace LISTING_2_56_LINQ_components
         {
             Assembly thisAssembly = Assembly.GetExecutingAssembly();
 
+            //CTO: a forma de baixo pode ser usada para dar load em uma dll e logo fazer reflection da mesma
+            //Assembly bankTypes = Assembly.Load("BankTypes.dll");
 
             var AccountTypes = from type in thisAssembly.GetTypes()
                                where typeof(IAccount).IsAssignableFrom(type) && !type.IsInterface

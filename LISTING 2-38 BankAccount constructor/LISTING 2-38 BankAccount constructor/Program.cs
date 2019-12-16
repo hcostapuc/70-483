@@ -45,6 +45,7 @@ namespace LISTING_2_38_BankAccount_constructor
 
     public class BabyAccount : BankAccount, IAccount
     {
+        //CTO: o ": base(initialBalance)" é usado para implementar na classe BabyAccount o construtor da classe base BankAccount, o this é usado para mesma classe e o base é usado para classe externa
         public BabyAccount(int initialBalance) : base(initialBalance)
         {
         }

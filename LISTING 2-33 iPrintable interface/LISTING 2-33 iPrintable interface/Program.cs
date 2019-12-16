@@ -20,8 +20,22 @@ namespace LISTING_2_33_iPrintable_interface
         }
     }
 
+    class PDF : IPrintable
+    {
+        public string GetPrintableText(int pageWidth, int pageHeight)
+        {
+            return "PDF text";
+        }
+
+        public string GetTitle()
+        {
+            return "PDF title";
+        }
+    }
+
     class ConsolePrinter
     {
+        //CTO: passando a interface como parametro, qualquer classe que implemente a interface poderá ser passada nesse parametro
         public void PrintItem(IPrintable item)
         {
             Console.WriteLine(item.GetTitle());
@@ -34,8 +48,10 @@ namespace LISTING_2_33_iPrintable_interface
         static void Main(string[] args)
         {
             Report myReport = new Report();
+            PDF myPDF = new PDF();
             ConsolePrinter printer = new ConsolePrinter();
             printer.PrintItem(myReport);
+            printer.PrintItem(myPDF);
 
             Console.ReadKey();
         }

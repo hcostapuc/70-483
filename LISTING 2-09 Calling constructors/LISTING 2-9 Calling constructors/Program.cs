@@ -21,7 +21,7 @@ namespace LISTING_2_9_Calling_constructors
             Y = y;
             Lives = lives;
         }
-
+        //CTO: o this serve para chamar o outro construtor
         public Alien(int x, int y) : this(x, y, 3)
         {
         }

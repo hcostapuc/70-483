@@ -1,16 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\LISTING 1-35 Using BlockingCollection\\LISTING 1-35 Using BlockingCollection",
-    "\\LISTING 1-36 Block ConcurrentStack\\LISTING 1-36 Block ConcurrentStack",
-    "\\LISTING 1-37 Concurrent queue\\LISTING 1-37 Concurrent queue",
-    "\\LISTING 1-38 Concurrent stack\\LISTING 1-38 Concurrent stack",
-    "\\LISTING 1-48 interlock total\\LISTING 1-48 interlock total",
-    "\\LISTING 1-49 cancel a task\\LISTING 1-49 cancel a task",
-    "\\LISTING 1-50 cancel with exception\\LISTING 1-50 cancel with exception",
-    "\\LISTING 1-51 unsafe thread method",
-    "\\LISTING 1-51 unsafe thread method\\LISTING 1-51 unsafe thread method"
+    "\\LISTING 1-84 Aggregate exceptions",
+    "\\LISTING 1-84 Aggregate exceptions\\LISTING 1-84 Aggregate exceptions",
+    "\\LISTING 2-64 The finalizer"
   ],
-  "SelectedNode": "\\LISTING 1-51 unsafe thread method",
+  "SelectedNode": "\\LISTING 2-64 The finalizer\\LISTING 2-64 The finalizer.sln",
   "PreviewInSolutionExplorer": false
 }

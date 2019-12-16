@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 
 namespace LISTING_2_64_The_finalizer
 {
@@ -6,6 +7,9 @@ namespace LISTING_2_64_The_finalizer
     {
         long[] personArray = new long[1000000];
 
+
+        //CTO: chamado quando o GC destruir o objeto. O mesmo nao é uma boa pratica pois ele analisa todos os objetos que tem finalizer colocando os em uma pilha e logo executa uma thread para eles e espera essa thread acabar
+        //o é melhor é utilizar o IDisposable
         ~Person()
         {
             // This is where the person would be finalized

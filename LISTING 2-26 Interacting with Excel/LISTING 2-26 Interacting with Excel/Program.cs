@@ -13,6 +13,8 @@
             // Add a new workbook
             excelApp.Workbooks.Add();
 
+            /*CTO: The C# code uses dynamic types to make the interaction with the Office application very
+              easy.*/
             // Obtain the active sheet from the app
             // There is no need to cast this dynamic type
             Microsoft.Office.Interop.Excel.Worksheet workSheet = excelApp.ActiveSheet;

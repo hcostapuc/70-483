@@ -25,6 +25,7 @@ namespace LISTING_2_3_Creating_a_structure
     {
         static void Main(string[] args)
         {
+            
             Alien a;
             a.X = 50;
             a.Y = 50;
@@ -34,6 +35,7 @@ namespace LISTING_2_3_Creating_a_structure
             Alien x = new Alien(100, 100);
             Console.WriteLine("x {0}", x.ToString());
 
+            //CTO: quando o struct é criado mas nao chama o construtor os valores dos elementos por default sao 0/null, por isso é mostrado o valor 0 para Lives
             Alien[] swarm = new Alien[100];
             Console.WriteLine("swarm [0] {0}", swarm[0].ToString());
 

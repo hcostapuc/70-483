@@ -61,6 +61,8 @@ namespace LISTING_2_55_Finding_components
     {
         static void Main(string[] args)
         {
+            //CTO: nesse caso ele busca desse mesmo assembly gerado todas as classes que implementam a interface IAccount
+            //o exemplo posterior mostra o mesmo codigo so que usando LINQ Query
             Assembly thisAssembly = Assembly.GetExecutingAssembly();
 
             List<Type> AccountTypes = new List<Type>();

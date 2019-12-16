@@ -13,7 +13,7 @@ namespace LISTING_2_37_The_base_method
         decimal GetBalance();
     }
 
-    public class BankAccount : IAccount
+    public  class BankAccount : IAccount
     {
         private decimal balance = 0;
 
@@ -37,8 +37,8 @@ namespace LISTING_2_37_The_base_method
             return balance;
         }
     }
-
-    public class BabyAccount : BankAccount, IAccount
+    //CTO: sealed faz com que a classe nao seja herdada por outra, protegendo os elementos da classe de algo externo.
+    public sealed class  BabyAccount : BankAccount, IAccount
     {
         public override bool WithdrawFunds(decimal amount)
         {
@@ -48,6 +48,13 @@ namespace LISTING_2_37_The_base_method
             }
             else
             {
+                /*
+                 CTO: foi implementado a chamada do base porque :
+                    ■ I don’t want to have to write the same code twice
+                    ■ I don’t want to make the _balance value visible outside the BankAccount class.
+
+                    Ou seja, sempre que um metodo for override, em seu body, fazer sua espeficidade depois chamar a base
+                 */
                 return base.WithdrawFunds(amount);
             }
         }

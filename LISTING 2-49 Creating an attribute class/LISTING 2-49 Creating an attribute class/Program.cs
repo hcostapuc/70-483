@@ -23,7 +23,8 @@ namespace LISTING_2_49_Creating_an_attribute_class
     [ProgrammerAttribute(programmer:"Fred")]
     class Person
     {
-        // We can add attributes to any element 
+        //CTO: o atributo pode ser setado em variavel, metodo, classe e propriedades, qualquer tipo de objeto
+        // We can add attributes to any element
         [ProgrammerAttribute(programmer: "Fred")]
         public string Name { get; set; }
     }

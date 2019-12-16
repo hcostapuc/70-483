@@ -10,7 +10,8 @@ namespace LISTING_2_17_Indexing_on_strings
     {
         // Create an array to store the values
         private int[] array = new int[100];
-
+        //CTO: o program pode usar e acessar elementos do array indicando uma string (a coleção dictionary funciona dessa forma em relação a key)
+        
         // Decleare an indexer property
         public int this[string name]
         {

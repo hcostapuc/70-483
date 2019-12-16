@@ -1,0 +1,13 @@
+MEMORY ALLOCATION:
+
+Memory to be used to store variables of value type is allocated on the stack. The stack is an
+area of memory that is allocated and removed as programs enter and leave blocks. Any value
+type variables created during the execution of a block are stored on a local stack frame and
+then the entire frame is discarded when the block completes. This is an extremely efficient way
+to manage memory.
+
+Memory to be used to store variables of reference type is allocated on a different structure, called the heap. The heap is managed for an entire application. The heap is required
+because, as references may be passed between method calls as parameters, it is not the case
+that objects managed by reference can be discarded when a method exits. Objects can only
+be removed from the heap when the garbage collection process determines that there are no
+references to them. 

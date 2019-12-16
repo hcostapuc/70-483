@@ -1,0 +1,9 @@
+QUANDO ISNTANCIAMOS UMA CLASSE, OU SEJA QUANDO USAMOS A PALAVRA "NEW" A SEQUENCIA ABAIXO É EXECUTADA:
+
+1. The program code that implements the class is loaded into memory, if it is not already
+present.
+
+2. If this is the first time that the class has been referenced, any static members of the class
+are initialized and the static constructor is called.
+
+3. The constructor in the class is called.

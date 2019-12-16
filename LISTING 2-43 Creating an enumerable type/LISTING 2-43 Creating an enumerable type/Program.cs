@@ -7,6 +7,9 @@ namespace LISTING_2_43_Creating_an_enumerable_type
 
     class EnumeratorThing : IEnumerator<int>, IEnumerable
     {
+
+        //CTO: Collection classes, and results returned by LINQ queries implement the interface IEnumerable
+
         int count;
         int limit;
 

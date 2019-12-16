@@ -5,6 +5,8 @@ namespace LISTING_2_29_Creating_accessor_methods
 
     class BankAccount
     {
+        //CTO:  If you don’t specify an access modifier for a member of a type, the access to that member will
+        //default to private
         private decimal _accountBalance = 0;
 
         public void PayInFunds(decimal amountToPayIn)

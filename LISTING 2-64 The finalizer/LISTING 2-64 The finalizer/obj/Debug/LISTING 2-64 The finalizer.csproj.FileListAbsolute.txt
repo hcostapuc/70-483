@@ -5,3 +5,9 @@ c:\users\rob\documents\visual studio 2017\Projects\LISTING 2-64 The finalizer\
 c:\users\rob\documents\visual studio 2017\Projects\LISTING 2-64 The finalizer\LISTING 2-64 The finalizer\obj\Debug\LISTING 2-64 The finalizer.csproj.CoreCompileInputs.cache
 c:\users\rob\documents\visual studio 2017\Projects\LISTING 2-64 The finalizer\LISTING 2-64 The finalizer\obj\Debug\LISTING 2-64 The finalizer.exe
 c:\users\rob\documents\visual studio 2017\Projects\LISTING 2-64 The finalizer\LISTING 2-64 The finalizer\obj\Debug\LISTING 2-64 The finalizer.pdb
+C:\Users\brx0001312\Downloads\70-483\LISTING 2-64 The finalizer\LISTING 2-64 The finalizer\bin\Debug\LISTING 2-64 The finalizer.exe.config
+C:\Users\brx0001312\Downloads\70-483\LISTING 2-64 The finalizer\LISTING 2-64 The finalizer\bin\Debug\LISTING 2-64 The finalizer.exe
+C:\Users\brx0001312\Downloads\70-483\LISTING 2-64 The finalizer\LISTING 2-64 The finalizer\bin\Debug\LISTING 2-64 The finalizer.pdb
+C:\Users\brx0001312\Downloads\70-483\LISTING 2-64 The finalizer\LISTING 2-64 The finalizer\obj\Debug\LISTING 2-64 The finalizer.csprojAssemblyReference.cache
+C:\Users\brx0001312\Downloads\70-483\LISTING 2-64 The finalizer\LISTING 2-64 The finalizer\obj\Debug\LISTING 2-64 The finalizer.exe
+C:\Users\brx0001312\Downloads\70-483\LISTING 2-64 The finalizer\LISTING 2-64 The finalizer\obj\Debug\LISTING 2-64 The finalizer.pdb

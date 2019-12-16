@@ -4,6 +4,7 @@ namespace LISTING_2_30_Protected_access
 {
     class BankAccount
     {
+        //CTO: não é uma boa pratica usar protect pois um programa malicioso pode herdar a classe e ter a cesso a propriedade
         protected decimal _accountBalance = 0;
 
         public void PayInFunds(decimal amountToPayIn)

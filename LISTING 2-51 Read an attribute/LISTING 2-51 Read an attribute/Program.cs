@@ -34,6 +34,7 @@ class Person
     {
         static void Main(string[] args)
         {
+            //CTO: GetCustomAttribute tem os mesmos parametros que o IsDefined, ao invez de retornar um booleano ele retorna a referencia do atributo buscado, se nao existir ele retorna null
             Attribute a = Attribute.GetCustomAttribute(
                 typeof(Person), typeof(ProgrammerAttribute));
 

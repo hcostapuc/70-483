@@ -15,7 +15,9 @@ namespace LISTING_2_61_Property_info
         static void Main(string[] args)
         {
             Type type = typeof(Person);
-
+            
+            //CTO: recupera as propriedades do tipo passado
+            
             foreach (PropertyInfo p in type.GetProperties())
             {
                 Console.WriteLine("Property name: {0}", p.Name);

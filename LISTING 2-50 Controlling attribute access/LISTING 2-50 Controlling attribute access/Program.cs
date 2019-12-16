@@ -2,6 +2,10 @@
 
 namespace LISTING_2_50_Controlling_attribute_access
 {
+    
+    //CTO: para adicionar mais tipos é so usar o pipeline:
+    //[AttributeUsage(AttributeTargets.Class | AttributeTargets.Field)]
+
     [AttributeUsage(AttributeTargets.Class)]
     class ProgrammerAttribute : Attribute
     {

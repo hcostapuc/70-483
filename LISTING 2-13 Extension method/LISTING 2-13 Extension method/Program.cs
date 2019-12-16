@@ -4,6 +4,11 @@ namespace ExtensionMethods
 {
     public static class MyExtensions
     {
+        //CTO: o parametro passado por parametro junto com o this, é o tipo no qual o extension irá ser usado.
+
+        //Extension methods devem ser declarados em uma classe estatica
+
+        //a palavra "this" no parametro ja diz que é um extension
         public static int LineCount(this String str)
         {
             return str.Split(new char[] { '\n' },

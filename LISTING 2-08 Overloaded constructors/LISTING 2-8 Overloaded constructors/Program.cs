@@ -8,6 +8,9 @@ namespace LISTING_2_8_Overloaded_constructors
         public int Y;
         public int Lives;
 
+        //CTO:  Overloading means, “providing a method with the same name, but
+        //a different signature in a given type.”
+
         public Alien(int x, int y, int lives)
         {
             if (x < 0 || y < 0)

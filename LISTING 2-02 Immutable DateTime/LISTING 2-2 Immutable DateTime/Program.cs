@@ -13,6 +13,7 @@ namespace LISTING_2_2_Immutable_DateTime
             // Create a DateTime for today
             DateTime date = DateTime.Now;
 
+            //CTO: toda modificação de um valor imutavel, que nesse cenario seria o dia que esta encapsulada pelo metodo addDays, necessita da criação de um novo objeto (isso ocorre dentro do metodo addDays)
             // Move the date on to tomorrow
             date = date.AddDays(1);
 

@@ -16,6 +16,12 @@ namespace LISTING_2_25_Using_dynamic_variables
             d = d + " Rob";
             Console.WriteLine(d);
 
+            //CTO: The ExpandoObject class allows a program to dynamically add properties to an object. The
+            //code next.
+
+            /*ExpandoObject is especially useful when creating data structures from markup languages, for example when reading
+              a JSON or XML document.
+              */
             dynamic person = new ExpandoObject();
 
             person.Name = "Rob Miles";

@@ -8,6 +8,8 @@ namespace LISTING_2_10_Static_constructors
         public int Y;
         public int Lives;
 
+        //CTO: o construtor estatico de uma classe é chamado apenas a primeira vez que a classe é instanciada, é boa pratica para carregar resources e inicializar valores que serão usados
+        // pela instancia da classe.
         static Alien()
         {
             Console.WriteLine("My first Alien");

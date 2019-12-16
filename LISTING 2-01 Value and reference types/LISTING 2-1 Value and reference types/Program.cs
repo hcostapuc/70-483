@@ -16,6 +16,10 @@ namespace LISTING_2_1_Value_and_reference_types
 
         static void Main(string[] args)
         {
+
+            //CTO: value types are enumerated types and structures, reference types are classes.
+
+            //CTO: Variaveis do tipo struct são manejadas por valor
             StructStore xs, ys;
             ys = new StructStore();
             ys.Data = 99;
@@ -24,6 +28,7 @@ namespace LISTING_2_1_Value_and_reference_types
             Console.WriteLine("xStruct: {0}", xs.Data);
             Console.WriteLine("yStruct: {0}", ys.Data);
 
+            //CTO: Variaveis do tipo class são manejadas por referencia
             ClassStore xc, yc;
             yc = new ClassStore();
             yc.Data = 99;

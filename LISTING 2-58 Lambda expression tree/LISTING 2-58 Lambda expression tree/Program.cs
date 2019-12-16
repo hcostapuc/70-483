@@ -7,6 +7,9 @@ namespace LISTING_2_58_Lambda_expression_tree
     {
         static void Main(string[] args)
         {
+            //CTO: para criar uma expressão lambda mais complexa existe a Lambda Expression Tree
+            //An expression tree is immutable, para modificar so criando uma copia que contem os behaviors, no exemplo a seguir mostra.
+
             // build the expression tree: Expression<Func<int,int>> square = num => num * num;
 
             // The parameter for the expression is an integer

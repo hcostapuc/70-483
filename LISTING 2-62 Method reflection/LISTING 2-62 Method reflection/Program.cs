@@ -15,6 +15,11 @@ namespace LISTING_2_62_Method_reflection
     {
         static void Main(string[] args)
         {
+            //CTO: The GetType method can be called on any instance to
+            //obtain a reference to the type for that object, and the typeof method can be used on any type
+            //to obtain the type object that describes that type
+
+
             Console.WriteLine("Get the type information for the Calculator class");
             Type type = typeof(Calculator);
 
@@ -39,18 +44,18 @@ namespace LISTING_2_62_Method_reflection
 
             Console.WriteLine("Call Invoke on the method info");
             Console.WriteLine("Cast the result to an integer");
-            int result = (int) AddIntMethodInfo.Invoke(calc, inputs);
+            int result = (int)AddIntMethodInfo.Invoke(calc, inputs);
             Console.WriteLine("Result of: {0}", result);
 
             Console.WriteLine("Call InvokeMember on the type");
-            result = (int) type.InvokeMember("AddInt",
+            result = (int)type.InvokeMember("AddInt",
                         BindingFlags.InvokeMethod | BindingFlags.Instance | BindingFlags.Public,
                         null,
                         calc,
                         inputs);
             Console.WriteLine("Result of: {0}", result);
 
-            Console.ReadKey(); 
+            Console.ReadKey();
         }
     }
 }

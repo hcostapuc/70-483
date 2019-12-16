@@ -33,11 +33,18 @@ namespace LISTING_2_39_Comparing_bank_accounts
         {
             return balance;
         }
-
+        /*
+         CTO:  If the value returned is less than 0 it indicates that this
+object should be placed before the one it is being compared with. If the value returned is zero,
+it indicates that this object should be placed at the same position as the one it is being compared with and if the value returned is greater than 0 it means that this object should be placed
+after the one it is being compared with.
+             */
         public int CompareTo(object obj)
         {
             // if we are being compared with a null object we are definitely after it
             if (obj == null) return 1;
+            
+            //CTO: No exemplo posterior mostra a implementação do Icomparable tipado, ou seja nao necessitando do cast
 
             // Convert the object reference into an account reference
             IAccount account = obj as IAccount;
@@ -69,6 +76,7 @@ namespace LISTING_2_39_Comparing_bank_accounts
                 accounts.Add(account);
             }
 
+            //CTO: Sort é um metodo da collection List
             // Sort the accounts
             accounts.Sort();
 

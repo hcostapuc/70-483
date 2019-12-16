@@ -29,6 +29,7 @@ namespace LISTING_2_48_Testing_for_an_attribute
     {
         static void Main(string[] args)
         {
+            //CTO: IsDefined confere se a classe X (Person), possui o atributo Y (SerializableAttribute)
             if (Attribute.IsDefined(typeof(Person), typeof(SerializableAttribute)))
                 Console.WriteLine("Person can be serialized");
 
