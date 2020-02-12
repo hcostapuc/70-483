@@ -4,3 +4,8 @@ C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-73 Music track formatter\L
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-73 Music track formatter\LISTING 2-73 Music track formatter\obj\Debug\LISTING 2-73 Music track formatter.csproj.CoreCompileInputs.cache
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-73 Music track formatter\LISTING 2-73 Music track formatter\obj\Debug\LISTING 2-73 Music track formatter.exe
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-73 Music track formatter\LISTING 2-73 Music track formatter\obj\Debug\LISTING 2-73 Music track formatter.pdb
+C:\Users\brx0001312\Downloads\70-483\LISTING 2-73 Music track formatter\LISTING 2-73 Music track formatter\bin\Debug\LISTING 2-73 Music track formatter.exe.config
+C:\Users\brx0001312\Downloads\70-483\LISTING 2-73 Music track formatter\LISTING 2-73 Music track formatter\bin\Debug\LISTING 2-73 Music track formatter.exe
+C:\Users\brx0001312\Downloads\70-483\LISTING 2-73 Music track formatter\LISTING 2-73 Music track formatter\bin\Debug\LISTING 2-73 Music track formatter.pdb
+C:\Users\brx0001312\Downloads\70-483\LISTING 2-73 Music track formatter\LISTING 2-73 Music track formatter\obj\Debug\LISTING 2-73 Music track formatter.exe
+C:\Users\brx0001312\Downloads\70-483\LISTING 2-73 Music track formatter\LISTING 2-73 Music track formatter\obj\Debug\LISTING 2-73 Music track formatter.pdb

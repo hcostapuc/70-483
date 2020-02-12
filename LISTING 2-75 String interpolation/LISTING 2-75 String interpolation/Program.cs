@@ -18,6 +18,7 @@ namespace LISTING_2_75_String_interpolation
 
             Console.WriteLine("Your name is {0} and your age is {1,-5:D}", name, age);
 
+            //CTO: "$" representa a interpolação, usando o mesmo podera indicar a variavel diretamente na string
             Console.WriteLine($"Your name is {name} and your age is {age,-5:D}");
 
             Console.WriteLine(String.Format($"Your name is {name} and your age is {age,-5:D}"));

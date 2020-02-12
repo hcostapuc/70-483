@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 
 namespace LISTING_2_64_The_finalizer
 {

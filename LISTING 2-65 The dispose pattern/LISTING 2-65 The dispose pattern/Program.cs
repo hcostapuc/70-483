@@ -14,7 +14,11 @@ namespace LISTING_2_65_The_dispose_pattern
             // Call dispose and tell it that
             // it is being called from a Dispose call
             Dispose(true);
+            //CTO: ignora o finalize do objeto
             GC.SuppressFinalize(this);
+
+            //CTO: caso queira ativa-lo novamente so chamar a função abaixo:
+            //GC.ReRegisterForFinalize(this);
         }
 
         public virtual void Dispose(bool disposing)
