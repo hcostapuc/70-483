@@ -7,3 +7,12 @@ C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-3 Validating JSON\LISTING 
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-3 Validating JSON\LISTING 3-3 Validating JSON\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-3 Validating JSON\LISTING 3-3 Validating JSON\obj\Debug\LISTING 3-3 Validating JSON.exe
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-3 Validating JSON\LISTING 3-3 Validating JSON\obj\Debug\LISTING 3-3 Validating JSON.pdb
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 3-03 Validating JSON\LISTING 3-3 Validating JSON\bin\Debug\LISTING 3-3 Validating JSON.exe.config
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 3-03 Validating JSON\LISTING 3-3 Validating JSON\bin\Debug\LISTING 3-3 Validating JSON.exe
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 3-03 Validating JSON\LISTING 3-3 Validating JSON\bin\Debug\LISTING 3-3 Validating JSON.pdb
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 3-03 Validating JSON\LISTING 3-3 Validating JSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 3-03 Validating JSON\LISTING 3-3 Validating JSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 3-03 Validating JSON\LISTING 3-3 Validating JSON\obj\Debug\LISTING 3-3 Validating JSON.csprojAssemblyReference.cache
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 3-03 Validating JSON\LISTING 3-3 Validating JSON\obj\Debug\LISTING 3-3 Validating JSON.csproj.CopyComplete
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 3-03 Validating JSON\LISTING 3-3 Validating JSON\obj\Debug\LISTING 3-3 Validating JSON.exe
+C:\Users\hcost\Source\Repos\hcostapuc\70-483\LISTING 3-03 Validating JSON\LISTING 3-3 Validating JSON\obj\Debug\LISTING 3-3 Validating JSON.pdb

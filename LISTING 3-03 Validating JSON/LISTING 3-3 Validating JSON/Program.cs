@@ -1,5 +1,6 @@
 ﻿using Newtonsoft.Json;
 using System;
+using System.Collections.Generic;
 
 namespace LISTING_3_3_Validating_JSON
 {
@@ -31,6 +32,13 @@ namespace LISTING_3_3_Validating_JSON
 
             try
             {
+                //CTO: se sua aplicação faz muita inserção e deleção de data e precisa de uma lista grande
+                //podemos usar o LinkedList<t> ele da maior mobilidade do que o List para manipular a lista
+
+                //CTO: Dica: usar link para qualquer busca ou ordenação de uma lista de objetos
+
+                //CTO: Dica: quando for criar o CRUD, bas usar o metodo scafollding, que basicamente cria o crud
+                //automaticamente usando a controller e a model (primeiro cria a model depois a controller e logo aparecera a opção de criação via scafollding)
                 MusicTrack trackRead = JsonConvert.DeserializeObject<MusicTrack>(invalidJson);
                 Console.Write("Read back: ");
                 Console.WriteLine(trackRead);
