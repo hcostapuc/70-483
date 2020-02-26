@@ -13,6 +13,8 @@ namespace LISTING_3_7_Match_multiple_spaces
         {
             string input = "Rob    Mary David   Jenny  Chris   Imogen       Rodney";
 
+            //O simbolo + representa diz que onde houver o caracter anterior, no caso o espaço, ele irar buscar,
+            //ou seja pegara todos os espaços que houver na string
             string regularExpressionToMatch = " +";
             string patternToReplace = ",";
 

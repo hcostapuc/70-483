@@ -4,8 +4,13 @@
     "\\LISTING 1-84 Aggregate exceptions",
     "\\LISTING 1-84 Aggregate exceptions\\LISTING 1-84 Aggregate exceptions",
     "\\LISTING 2-64 The finalizer",
-    "\\LISTING 3-03 Validating JSON"
+    "\\LISTING 3-05 Copy constructor\\LISTING 3-5 Copy constructor",
+    "\\LISTING 3-07 Match multiple spaces\\LISTING 3-7 Match multiple spaces",
+    "\\LISTING 3-12 Using Convert",
+    "\\LISTING 3-12 Using Convert\\LISTING 3-12 Using Convert",
+    "\\LISTING 3-13 ASP validation",
+    "\\LISTING 3-13 ASP validation\\MusicTracks"
   ],
-  "SelectedNode": "\\LISTING 3-03 Validating JSON\\LISTING 3-3 Validating JSON.sln",
+  "SelectedNode": "\\LISTING 3-13 ASP validation\\MusicTracks\\MusicTracks.sln",
   "PreviewInSolutionExplorer": false
 }
