@@ -4,13 +4,12 @@
     "\\LISTING 1-84 Aggregate exceptions",
     "\\LISTING 1-84 Aggregate exceptions\\LISTING 1-84 Aggregate exceptions",
     "\\LISTING 2-64 The finalizer",
-    "\\LISTING 3-05 Copy constructor\\LISTING 3-5 Copy constructor",
-    "\\LISTING 3-07 Match multiple spaces\\LISTING 3-7 Match multiple spaces",
-    "\\LISTING 3-12 Using Convert",
     "\\LISTING 3-12 Using Convert\\LISTING 3-12 Using Convert",
-    "\\LISTING 3-13 ASP validation",
-    "\\LISTING 3-13 ASP validation\\MusicTracks"
+    "\\LISTING 3-13 ASP validation\\MusicTracks",
+    "\\LISTING 3-14 AES encryption",
+    "\\LISTING 3-14 AES encryption\\LISTING 3-14 AES encryption",
+    "\\LISTING 3-15 AES decryption"
   ],
-  "SelectedNode": "\\LISTING 3-13 ASP validation\\MusicTracks\\MusicTracks.sln",
+  "SelectedNode": "\\LISTING 3-14 AES encryption\\LISTING 3-14 AES encryption.sln",
   "PreviewInSolutionExplorer": false
 }

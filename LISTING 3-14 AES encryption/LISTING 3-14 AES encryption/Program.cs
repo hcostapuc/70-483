@@ -6,6 +6,7 @@ namespace LISTING_3_14_AES_encryption
 {
     class Program
     {
+        //CTO: AES é do tipo simetric encryption, onde a key de encryptação é a mesa de desemcriptação
         static void DumpBytes(string title, byte [] bytes)
         {
             Console.Write(title);
@@ -36,6 +37,8 @@ namespace LISTING_3_14_AES_encryption
             {
                 // copy the key and the initialization vector
                 key = aes.Key;
+                //CTO: esse cara faz com que a encriptação pegue uma posição aleatória do conteudo a ser encriptado e marca como posição inicial
+                //para começar encriptação, isso faz com que ele não repita a chave caso haja uma nova encryptação do mesmo conteudo
                 initializationVector = aes.IV;
 
                 // create an encryptor to encrypt some data
