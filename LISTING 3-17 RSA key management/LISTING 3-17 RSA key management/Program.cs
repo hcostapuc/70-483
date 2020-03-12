@@ -8,6 +8,7 @@ namespace LISTING_3_17_RSA_key_management
     {
         static void Main(string[] args)
         {
+            //CTO: armazenamento das keys
             string containerName = "KeyStore";
 
             CspParameters csp = new CspParameters();

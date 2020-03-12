@@ -7,6 +7,13 @@ namespace LISTING_3_20_Signing_data
 {
     class Program
     {
+        //CTO: aqui utilizamos certificado, o mesmo serve para certificar a autenticidade daquela mensagem
+        //a veracidade da mensagem, se quem mandou é realmente quem deveria ter mandando, assim, garantimos
+        //que a mensagem nao foi interceptada por alguem e esse alguem se tentou passar pela pessoa remetente
+
+        //CTO: criar o certificado: Abrir com o cmd developer 
+        //  -> makecert democert.cer
+        //  -> makecert -n "CN=RobMiles" -sr currentuser -ss demoCertStore
         static void dumpBytes(string title, byte[] bytes)
         {
             Console.Write(title);

@@ -20,6 +20,8 @@ namespace LISTING_3_21_Checksums
 
         static void Main(string[] args)
         {
+            //CTO: mesmo alterando a string é gerado um mesmo checksum o jeito certo de fazer um hash esta no exemplo 3-22
+            //que utiliza o GetHash()
             showChecksum("Hello world");
             showChecksum("world Hello");
             showChecksum("Hemmm world");

@@ -7,6 +7,8 @@ namespace LISTING_3_19_Machine_level_keys
     {
         static void Main(string[] args)
         {
+            //CTO: nesse caso ele armazena em um arquivo as keys no computador
+            //o path default é c:\ProgramData\Microsoft\Crypto\RSA\MachineKeys
             CspParameters cspParams = new CspParameters();
             cspParams.KeyContainerName = "Machine Level Key";
 
