@@ -15,7 +15,7 @@ namespace LISTING_3_24_Encrypt_a_stream
             }
             Console.WriteLine();
         }
-
+        //CTO: Aqui nos encryptados duas vezes o dado de modo syncronus com AES
         static void Main(string[] args)
         {
             string plainText = "This is my super super secret data";
