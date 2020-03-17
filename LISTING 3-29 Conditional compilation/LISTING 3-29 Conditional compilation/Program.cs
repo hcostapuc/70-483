@@ -1,6 +1,6 @@
-﻿#
-#define DIAGNOSTICS
-
+﻿#define DIAGNOSTICS
+//CTO: se usarmos o undef DEBUG, desativamos todo o trecho do simbolo DEBUG na hora de compilar o tipo debug
+//#undef DEBUG
 using System;
 
 namespace LISTING_3_29_Conditional_compilation
@@ -33,7 +33,7 @@ namespace LISTING_3_29_Conditional_compilation
             Console.WriteLine("Hello Rob. And how are you");
 #endif
 
-
+            //CTO: quando gerado a release esse trexo de codigo não é compilado, o mesmo é descartado
 #if DIAGNOSTICS && DEBUG
             Console.WriteLine("Music track created: {0}", this.ToString());
 #else
