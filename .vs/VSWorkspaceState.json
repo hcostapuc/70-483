@@ -4,9 +4,11 @@
     "\\LISTING 1-84 Aggregate exceptions",
     "\\LISTING 1-84 Aggregate exceptions\\LISTING 1-84 Aggregate exceptions",
     "\\LISTING 2-64 The finalizer",
-    "\\LISTING 3-14 AES encryption\\LISTING 3-14 AES encryption",
-    "\\LISTING 3-29 Conditional compilation"
+    "\\LISTING 3-32 Code optimization\\LISTING 3-32 Code optimization",
+    "\\LISTING 3-33 Debug code tracing\\LISTING 3-33 Debug code tracing",
+    "\\LISTING 3-35 Assertions in debug\\LISTING 3-35 Assertions in debug",
+    "\\LISTING 3-37 Simple TraceSource"
   ],
-  "SelectedNode": "\\LISTING 3-29 Conditional compilation\\LISTING 3-29 Conditional compilation.sln",
+  "SelectedNode": "\\LISTING 3-37 Simple TraceSource\\LISTING 3-37 Simple TraceSource.sln",
   "PreviewInSolutionExplorer": false
 }

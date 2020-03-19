@@ -68,7 +68,8 @@ namespace LISTING_3_41_Stopwatch_class
         static void Main(string[] args)
         {
             Console.WriteLine("Started processing");
-
+            //CTO: uma das melhores ferramentas para testar a performance do codigo é o stopwatch
+            //combinada com uma ferramenta do visual studio chamada "performance profile" nela conseguimos ver detalhadamente
             Stopwatch stopwatch = new Stopwatch();
 
             stopwatch.Start();
